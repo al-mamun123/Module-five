@@ -1,0 +1,142 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.first-part{
+    display: inline-flex;
+    background: url(../images/header-bg.png);
+    background-repeat: no-repeat;
+}
+.headline{
+    width: 50%;
+    padding: 100px;
+    
+}
+.headline h3{
+    font-size: 25px;
+}
+.headline h1{
+    font-size: 40px;
+    color: palevioletred;
+    font-family: 'Poppins', sans-serif;
+}
+.headline p{
+    font-family: 'Poppins', sans-serif;
+    text-align: initial;
+}
+.headline button{
+    box-shadow: 1px solid black;
+    background-color: #9f4353;
+    border-radius: 10px;
+
+}
+.headline a{
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 300;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    padding: 22px;
+}
+.headlineimg{
+    width: 50%;
+}
+.headlineimg img{
+    width: 450px;
+    height: 400px;
+}
+
+.second-part{
+    display: inline-flex;
+    background: url(../images/biography-bg.png);
+    background-repeat: no-repeat;
+    padding: 70px;
+}
+
+.second-part-img{
+    width: 50%;
+}
+.second-part-img img{
+    width: 450px;
+    height: 400px;
+}
+.second-part-content{
+    width: 50%;
+}
+.second-part-content h2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+}
+.second-part-content p{
+    font-family: 'Poppins', sans-serif;
+
+}
+.second-part-content button{
+    font-size: 20px;
+    padding: 6px;
+    font-style: italic;
+    color: white;
+    background-color: #9f4353;
+    border-radius: 8px;
+}
+
+.third-part{}
+.title{}
+.title h3{
+    font-size: 40px;
+    text-align: center;
+    text-transform: capitalize;
+    font-family: 'Poppins', sans-serif;
+}
+.third-part-img{
+    display: inline-flex;
+}
+.third-part-img img{
+    width: 25%;
+    padding: 52px;
+}
+
+
+.footer{
+    background: url(../images/footer-bg.png);
+    background-repeat: no-repeat;
+}
+.footer-title{}
+.footer-title h3{
+    font-size: 39px;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+.footer-middle{}
+.footer-middle h3{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+.footer-middle h6{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+.footer-middle p{
+    text-align: center;
+    padding: 0%;
+    width: 39%;
+    margin-left: 404px;
+}
+.footer-last{
+    width: 473px;
+    height: 107px;
+    text-align: center;
+    margin-left: 397px;
+    margin-top: 54px;
+    background: #c91576cc;
+    padding: 30px;
+    border-radius: 10px;
+}
+.footer-last h5{
+    color: whitesmoke;
+}
+.footer-last h3{
+    color: whitesmoke;
+}
+
+
+
